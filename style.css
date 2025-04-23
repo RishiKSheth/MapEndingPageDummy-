@@ -1,0 +1,14 @@
+.center{ 
+    text-align: center;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
